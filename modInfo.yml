@@ -1,0 +1,17 @@
+# The screen name for the mod
+prettyname: "Buildcraft"
+
+# Prettyname to lower without spaces or symbols
+slugname: "buildcraft"
+
+# Give the official description given by the author at the site.
+description: "BuildCraft is a new game mod aiming at allowing users to build advanced structures and mechanisms."
+
+# Give the url to the site/forum thread for the mod.
+url: "http://www.mod-buildcraft.com/"
+
+# List all versions available in modVersions.yml
+versions: [ 3.3.06 , 3.3.04 ]
+
+# mod or coremod
+type: "mod"
