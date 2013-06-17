@@ -1,11 +1,9 @@
 3.3.06: [
   version: "3.3.06",
-  md5sum: "1392997c0165ada3f21c772b7278e5f1",
   url: "https://dl.dropboxusercontent.com/u/34787499/minecraft/1.5.2/%5B1.5.2%5DReiMinimap_v3.3_06.zip"
 ]
 
 3.3.04: [
   version: "3.3.04",
-  md5sum: "07b3eedfc812ec6225b8de2fc372d522",
   url: "https://dl.dropboxusercontent.com/u/34787499/minecraft/1.5.1/%5B1.5.1%5DReiMinimap_v3.3_04.zip"
 ]
