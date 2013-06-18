@@ -1,5 +1,5 @@
 # The screen name for the mod
-prettyname: "Buildcraft"
+pretty_name: "Buildcraft"
 
 # Prettyname to lower without spaces or symbols
 name: "buildcraft"
@@ -11,7 +11,7 @@ author: "SpaceToad"
 description: "BuildCraft is a new game mod aiming at allowing users to build advanced structures and mechanisms."
 
 # Give the url to the site/forum thread for the mod.
-link: "http://www.mod-buildcraft.com/"
+url: "http://www.mod-buildcraft.com/"
 
 # List all versions available in modVersions.yml
 versions: [ 3.3.06 , 3.3.04 ]
