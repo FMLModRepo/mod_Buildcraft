@@ -1,0 +1,10 @@
+{ "author" : "SpaceToad",
+  "description" : "BuildCraft is a new game mod aiming at allowing users to build advanced structures and mechanisms.",
+  "folder" : "mod",
+  "link" : "http://www.mod-buildcraft.com/",
+  "name" : "buildcraft",
+  "pretty_name" : "Buildcraft",
+  "versions" : [ "3.3.06",
+      "3.3.04"
+    ]
+}
